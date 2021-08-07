@@ -1,4 +1,4 @@
 # C-mods
 # A lot of C++ mods here.
 # extramods:
-#   Latest version:1.3.2
+#   Latest version:1.3.3
